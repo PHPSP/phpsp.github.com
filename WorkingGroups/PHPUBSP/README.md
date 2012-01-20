@@ -1,7 +1,11 @@
 # PHPSP \ WorkingGroups \ PHPUBSP
 
 ---
+## Time
 
+* Anderson 'Duodraco' &lt;o@duodra.co,duodraco@phpsp.org.br&gt;
+
+---
 ## Resumo
 
 O PHPUBSP é o encontro mensal focado em conteúdo em um ambiente descontraído.
