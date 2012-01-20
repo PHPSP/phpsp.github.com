@@ -47,7 +47,7 @@ Média de 30 pessoas
 ## TODOs
 
 * Procurar patrocínio
-* Promoções / Brindes
+ * Promoções / Brindes
 * Melhorar Documentação
 * Organizar Agenda
 * Registro do Evento (Fotos, Vídeos, etc)
