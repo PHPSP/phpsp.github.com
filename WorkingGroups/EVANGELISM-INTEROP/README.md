@@ -1,4 +1,4 @@
-# PHPSP \ WorkingGroups \ EVANGELISMO-INTEROP
+# PHPSP \ WorkingGroups \ INTEROP
 
 ---
 ## Time
