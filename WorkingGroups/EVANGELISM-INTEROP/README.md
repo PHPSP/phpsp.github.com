@@ -44,6 +44,16 @@ Este é um workgroup de constante atuação então por isso não esperem datas o
 
 Estamos ainda em negociação mas um possível local para São Paulo (capital) é no espaço da CCD ( Casa de Cultura Digital - http://www.casadaculturadigital.com.br ) e em Campinas junto ao LHC ( Laboratório Hacker de Campinas - http://lhc.net.br )
 
+## Iniciativas Existentes
+
+* Comunidade PHP & Microsoft
+Este projeto já está em andamento há algum tempo e ganha mais força este ano com novas iniciativas que visam prover uma melhor comunicação entre as comunidades PHP e MS afim de entender (e sana-los) os problemas, impeditivos e dificuldades, bem como promover um maior conhecimento do mundo PHP dentro e fora do ambiente MS.
+
+Abertura e oportunidade para difusão do conhecimento dentro do ambiente da MSDN afim de mostrar o que é e não é possível nessa junção PHP+MS.
+
+* Incentivo ao Livre
+Projeto iniciante que visa dar maior visibilidade para projetos OpenSource e seus contribuidores dentro da comunidade, buscando assim valorizar o desenvolvedor que possui ou ajuda em projetos OpenSouce "de casa"
+
 ---
 ## TODOs
 
