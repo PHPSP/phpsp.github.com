@@ -38,10 +38,11 @@ Média de 30 pessoas
 ## Palestras já realizadas
 
 * Set '11 - Object Calisthenics - Guilherme Blanco
-* Out '11 - ??? - Alexandre Gaigalas
+* Out '11 - PHP Maroto - Alexandre Gaigalas
 * Nov '11 - Os PHPs do PHPSP - Augusto, Rafael e Anderson
 * Dez '11 - PHP ao Extremo - Thiago Rigo
-* Jan '12 - ??? - ??? (a confirmar)
+* Jan '12 - Ensaio sobre Arquitetura de Software - Alexandre Gaigalas (a confirmar)
+* Fev '12 - Hacking + PHP - Erick Tedeschi
 
 ---
 ## TODOs
