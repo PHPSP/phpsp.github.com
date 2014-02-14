@@ -34,4 +34,14 @@ de fevereiro
 1. Nomes de Métodos e Variáveis, Ingles ou Portugues?
 2. Video: 5 Passos para se tornar um bom Programador
 
+[@kleberhs007]: Mais assuntos do Sharkbowl do dia 11/02/2014
+- Certificação: a importância da certificação ZCE PHP para um profissional da área
+- ReactPHP: ferramenta non-blocking I/O estilo Node.js para PHP
+- Frameworks: qual a importância deles no nosso dia-a-dia. Também incluiu nesse assunto
+a polêmica gerada por Rasmus Lerdorf (criador do PHP) de que a framework era uma droga, pois reduzia performance
+da aplicação em especial. Na conclusão do assunto, chegou-se ao consenso de que Rasmus estava sendo xiita 
+demais, pois pouquíssimas aplicações web precisam de alta performance e o preço do hardware caiu consideravelmente, 
+o que permite que o problema possa ser sanado com compra de novos equipamentos para melhora de desempenho com um 
+bom custo-benefício à empresa.
+
 Pull Requests!!!!
