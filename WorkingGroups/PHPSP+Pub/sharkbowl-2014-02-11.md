@@ -11,15 +11,15 @@ Tribeca Pub - Rua Ramos Batista, 378 - Vl Olimpia, SP (11) 3842-5553 - contato@t
 Quem?
 -----
 
-- [@apssouza22](https://github.com/apssouza22)
-- [@diegocpires](https://github.com/diegocpires)
-- [@hussani](https://github.com/hussani)
-- [@kleberhs007](https://github.com/kleberhs007)
-- [@lpgpa](https://github.com/lpgpa)
-- [@pauloelr](https://github.com/pauloelr)
-- [@phelipperibeiro](https://github.com/phelipperibeiro)
-- [@rogeriopradoj](https://github.com/rogeriopradoj)
-- [@williamespindola](https://github.com/williamespindola)
+- [@apssouza22]
+- [@diegocpires]
+- [@hussani]
+- [@kleberhs007]
+- [@lpgpa]
+- [@pauloelr]
+- [@phelipperibeiro]
+- [@rogeriopradoj]
+- [@williamespindola]
 
 
 Assuntos?
@@ -44,4 +44,20 @@ demais, pois pouquíssimas aplicações web precisam de alta performance e o pre
 o que permite que o problema possa ser sanado com compra de novos equipamentos para melhora de desempenho com um 
 bom custo-benefício à empresa.
 
-Pull Requests!!!!
+---
+
+*Esperando mais Commits e Pull Requests do time @PHPSP/pub-sharkbowl*!!!!
+
+
+
+--
+
+[@apssouza22]: https://github.com/apssouza22
+[@diegocpires]: https://github.com/diegocpires
+[@hussani]: https://github.com/hussani
+[@kleberhs007]: https://github.com/kleberhs007
+[@lpgpa]: https://github.com/lpgpa
+[@pauloelr]: https://github.com/pauloelr
+[@phelipperibeiro]: https://github.com/phelipperibeiro
+[@rogeriopradoj]: https://github.com/rogeriopradoj
+[@williamespindola]: https://github.com/williamespindola
