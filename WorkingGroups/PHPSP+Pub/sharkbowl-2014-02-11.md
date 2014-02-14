@@ -44,6 +44,16 @@ demais, pois pouquíssimas aplicações web precisam de alta performance e o pre
 o que permite que o problema possa ser sanado com compra de novos equipamentos para melhora de desempenho com um 
 bom custo-benefício à empresa.
 
+[@apssouza22]: SPL - menos programação orientada a arrays:
+Falamos sobre os recursos da SPL que nos permitem desenvolver software mais orientado a objetos, mais elegantes e ainda otimizando recursos.
+Comentamos de como o Doctrine usa ArrayCollection que é uma implementação muito próxima do ArrayObject e que essa é uma classe que deveríamos
+utilizar quando estamos trabalhando com banco de dados.
+Ainda discutimos também sobre o uso das estruturas de dados(Pilha, Fila...) ao invés de arrays quando precisamos apenas organizar registros
+
+
+
+
+
 ---
 
 *Esperando mais Commits e Pull Requests do time @PHPSP/pub-sharkbowl*!!!!
