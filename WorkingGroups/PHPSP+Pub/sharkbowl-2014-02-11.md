@@ -45,6 +45,16 @@ de fevereiro
   Pessoal concordou em partes com as declarações do Rasmus, mas pensamos também que precisa ser levado em consideração o custo/benefício para a empresa no desenvolvimento usando um framework, ao invés de desenvolver uma aplicação "do zero". O trabalho e tempo consumido para "reinventar a roda" seria muito maior e mais custoso do que utilizar um framework de mercado.
   O consenso final ficou de que a programação procedural é realmente mais rápida que OO, e consequentemente, Frameworks. Mas isso não justifica o tempo gasto no final de um projeto para desenvolver tudo do zero, sendo que temos ótimas opções de frameworks no mercado. Poucas aplicações precisam realmente otimizar os milisegundos gastos a mais por um framework. 
 
+[@apssouza22]: SPL - menos programação orientada a arrays:
+Falamos sobre os recursos da SPL que nos permitem desenvolver software mais orientado a objetos, mais elegantes e ainda otimizando recursos.
+Comentamos de como o Doctrine usa ArrayCollection que é uma implementação muito próxima do ArrayObject e que essa é uma classe que deveríamos
+utilizar quando estamos trabalhando com banco de dados.
+Ainda discutimos também sobre o uso das estruturas de dados(Pilha, Fila...) ao invés de arrays quando precisamos apenas organizar registros
+
+
+
+
+
 ---
 
 *Esperando mais Commits e Pull Requests do time @PHPSP/pub-sharkbowl*!!!!
