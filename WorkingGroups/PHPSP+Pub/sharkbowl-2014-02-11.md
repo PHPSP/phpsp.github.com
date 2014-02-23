@@ -13,6 +13,7 @@ Quem?
 
 - [@apssouza22]
 - [@diegopires]
+- [@edgarsandi]
 - [@hussani]
 - [@kleberhs007]
 - [@lpgpa]
@@ -20,6 +21,7 @@ Quem?
 - [@phelipperibeiro]
 - [@rogeriopradoj]
 - [@williamespindola]
+
 
 
 Assuntos?
@@ -65,6 +67,7 @@ Ainda discutimos também sobre o uso das estruturas de dados(Pilha, Fila...) ao 
 
 [@apssouza22]: https://github.com/apssouza22
 [@diegopires]: https://github.com/diegocpires
+[@edgarsandi]: https://github.com/edgarsandi
 [@hussani]: https://github.com/hussani
 [@kleberhs007]: https://github.com/kleberhs007
 [@lpgpa]: https://github.com/lpgpa
