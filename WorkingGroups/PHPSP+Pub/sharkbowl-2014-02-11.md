@@ -12,7 +12,8 @@ Quem?
 -----
 
 - [@apssouza22]
-- [@diegocpires]
+- [@diegopires]
+- [@edgarsandi]
 - [@hussani]
 - [@kleberhs007]
 - [@lpgpa]
@@ -20,6 +21,7 @@ Quem?
 - [@phelipperibeiro]
 - [@rogeriopradoj]
 - [@williamespindola]
+
 
 
 Assuntos?
@@ -37,12 +39,23 @@ de fevereiro
 [@kleberhs007]: Mais assuntos do Sharkbowl do dia 11/02/2014
 - Certificação: a importância da certificação ZCE PHP para um profissional da área
 - ReactPHP: ferramenta non-blocking I/O estilo Node.js para PHP
-- Frameworks: qual a importância deles no nosso dia-a-dia. Também incluiu nesse assunto
-a polêmica gerada por Rasmus Lerdorf (criador do PHP) de que a framework era uma droga, pois reduzia performance
-da aplicação em especial. Na conclusão do assunto, chegou-se ao consenso de que Rasmus estava sendo xiita 
-demais, pois pouquíssimas aplicações web precisam de alta performance e o preço do hardware caiu consideravelmente, 
-o que permite que o problema possa ser sanado com compra de novos equipamentos para melhora de desempenho com um 
-bom custo-benefício à empresa.
+- Frameworks: qual a importância deles no nosso dia-a-dia. 
+
+[@diegopires]
+- Polêmica sobre as declarações do Rasmus:
+  Foi levantada uma discussão para saber a opinião de todos os participantes sobre as declarações do Rasmus de que todos os frameworks em PHP são um saco.
+  Pessoal concordou em partes com as declarações do Rasmus, mas pensamos também que precisa ser levado em consideração o custo/benefício para a empresa no desenvolvimento usando um framework, ao invés de desenvolver uma aplicação "do zero". O trabalho e tempo consumido para "reinventar a roda" seria muito maior e mais custoso do que utilizar um framework de mercado.
+  O consenso final ficou de que a programação procedural é realmente mais rápida que OO, e consequentemente, Frameworks. Mas isso não justifica o tempo gasto no final de um projeto para desenvolver tudo do zero, sendo que temos ótimas opções de frameworks no mercado. Poucas aplicações precisam realmente otimizar os milisegundos gastos a mais por um framework. 
+
+[@apssouza22]: SPL - menos programação orientada a arrays:
+Falamos sobre os recursos da SPL que nos permitem desenvolver software mais orientado a objetos, mais elegantes e ainda otimizando recursos.
+Comentamos de como o Doctrine usa ArrayCollection que é uma implementação muito próxima do ArrayObject e que essa é uma classe que deveríamos
+utilizar quando estamos trabalhando com banco de dados.
+Ainda discutimos também sobre o uso das estruturas de dados(Pilha, Fila...) ao invés de arrays quando precisamos apenas organizar registros
+
+
+
+
 
 ---
 
@@ -53,7 +66,8 @@ bom custo-benefício à empresa.
 --
 
 [@apssouza22]: https://github.com/apssouza22
-[@diegocpires]: https://github.com/diegocpires
+[@diegopires]: https://github.com/diegocpires
+[@edgarsandi]: https://github.com/edgarsandi
 [@hussani]: https://github.com/hussani
 [@kleberhs007]: https://github.com/kleberhs007
 [@lpgpa]: https://github.com/lpgpa
@@ -61,3 +75,4 @@ bom custo-benefício à empresa.
 [@phelipperibeiro]: https://github.com/phelipperibeiro
 [@rogeriopradoj]: https://github.com/rogeriopradoj
 [@williamespindola]: https://github.com/williamespindola
+
