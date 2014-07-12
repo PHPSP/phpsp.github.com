@@ -23,12 +23,17 @@ Assuntos?
 ---------
 
 - [@diegocpires]: **AWS**
+
+    Iniciei o tema falando um pouco sobre a minha experiência com os serviços de Cloud da Amazon. Mais especificamente com o CloudFront, LoadBalacing e AutoScaling. A intenção era levantar opções para estressar e testar os serviços da Amazon de forma convincente. Para saber se o LoadBalancing e AutoScaling estavam realmente funcionando.
+
+    Todo mundo opiniou, discutiu formas de testar e validar as configurações da Amazon mas não foi falado sobre nenhum tipo de serviço que faça esse trabalho de uma forma mais "barata", pois as opções que temos no mercado realmente são um pouco caras.
 - [@afonso]: **ORM**
-- [@mariorez]: **Docker**<br>
-Links:<br>
-[Docker Website](http://www.docker.com/)<br>
-[What is Docker?](http://www.docker.com/whatisdocker/)<br>
-[Google I/O 2014 - Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw)
+- [@mariorez]: **Docker**
+
+    Links:<br>
+    [Docker Website](http://www.docker.com/)<br>
+    [What is Docker?](http://www.docker.com/whatisdocker/)<br>
+    [Google I/O 2014 - Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw)
 - [@alexjunior012]: **Programação Orientada a Objetos**
 - [@sl0wik]: **Memcache**
 - [@hussani]: **Web API**
