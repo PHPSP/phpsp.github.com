@@ -28,12 +28,13 @@ Assuntos?
 
     Todo mundo opiniou, discutiu formas de testar e validar as configurações da Amazon mas não foi falado sobre nenhum tipo de serviço que faça esse trabalho de uma forma mais "barata", pois as opções que temos no mercado realmente são um pouco caras.
 - [@afonso]: **ORM**
-- [@mariorez]: **Docker**
-
-    Links:<br>
+- [@mariorez]: **Docker**<br>
+    Mais sobre o assunto:<br>
     [Docker Website](http://www.docker.com/)<br>
     [What is Docker?](http://www.docker.com/whatisdocker/)<br>
+    [An update on container support on Google Cloud Platform](http://googlecloudplatform.blogspot.com.br/2014/06/an-update-on-container-support-on-google-cloud-platform.html)<br>
     [Google I/O 2014 - Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw)
+
 - [@alexjunior012]: **Programação Orientada a Objetos**
 - [@sl0wik]: **Memcache**
 - [@hussani]: **Web API**
