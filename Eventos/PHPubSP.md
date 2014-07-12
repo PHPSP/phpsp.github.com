@@ -1,41 +1,49 @@
-# PHPSP \ WorkingGroups \ PHPUBSP
+# PHPubSP
 
----
-## Time
+Encontro periódico, sempre em um *Pub* (ou bar, ou local com cerveja) onde um tema
+é apresentado e discutido ou só discutido. Cerveja, ressaca, conhecimento e networking
+são consequências esperadas.
 
-* Anderson 'Duodraco' &lt;o@duodra.co,duodraco@phpsp.org.br&gt;
+**Responsável**: Anderson "Duodraco" Casimiro <duodraco@phpsp.org.br>
 
----
-## Resumo
+## Quando acontece?
 
-O PHPUBSP é o encontro mensal focado em conteúdo em um ambiente descontraído.
-
----
-## Descritivo
-
-Evento mensal em Pub dividido em
-
-* Apresentação
-* Palestra
-* Bate-papo
-
-O espaço no Pub é reservado para o evento. 
-
----
-## Sazonalidade
 Ultima terça-feira de todo mês às 20h.
 
----
-## Local atual
-Tribeca Pub - Rua Ramos Batista, 378 - Vl Olimpia, SP (11) 3842-5553 - contato@tribecapub.com.br
+## Onde acontece?
 
----
-## Público
+No [Gibi Cultura Geek][1], [pertinho do metrô Vila Mariana][2]. Se você vier
+de carro, existem estacionamentos bem próximos ao local.
 
-Média de 30 pessoas
+- Rua Major Maragliano, 364 - Vila Mariana, São Paulo/SP.
+- Telefone: (11) 5084-1165
+- E-mail: gibiculturageek@gmail.com
 
----
+## Quem costuma ir?
+
+Com uma média de 30 pessoas participando, conte com a presença dos membros
+mais ativos da nossa comunidade.
+
+É uma ótima oportunidade pra conversar sobre aquele problema que você resolveu
+de um jeito não muito bacana ou daquela vaga que você preencher mas não encontra
+o profissional certo.
+
+## Quero ir, como eu faço?
+
+É só aparecer! Veja [no nosso calendário][3] o dia exato do evento e apareça.
+
+## Posso palestrar ou patrocinar o evento?
+
+Sem dúvida! Envie um e-mail para o responsável ou para `contato@phpsp.org.br`
+com sua proposta.
+
 ## Palestras já realizadas
+
+Atualmente estamos mantendo um documento pra cada evento realizado, com detalhes
+e links pras coisas discutidas em cada um. Você pode encontrar eles navegando pela
+estrutura de diretórios dentro deste mesmo diretório.
+
+Abaixo, seguem palestras e pessoas que já falaram e beberam com a gente:
 
 * Set '11 - Object Calisthenics - Guilherme Blanco
 * Out '11 - PHP Maroto - Alexandre Gaigalas
@@ -53,11 +61,6 @@ Média de 30 pessoas
 * Out '12 - Test Driven Development - Augusto Pascutti
 * Nov '12 - Desenvolvimento PHP com Vagrant - Rogério Prado
 
----
-## TODOs
-
-* Procurar patrocínio
-* Promoções / Brindes
-* Melhorar Documentação
-* Organizar Agenda
-* Registro do Evento (Fotos, Vídeos, etc)
+[1]: http://www.gibiculturageek.com/sobre-o-gibi/ "Sobre o Gibi Cultura Geek"
+[2]: https://www.google.com.br/maps/dir/Metro+Vila+Mariana,+S%C3%A3o+Paulo/Rua+Major+Maragliano,+364+-+Vila+Mariana,+S%C3%A3o+Paulo+-+SP,+04017-030/@-23.589182,-46.6390152,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x94ce5a2ba6648ec1:0x830e19278f434b35!2m2!1d-46.634701!2d-23.589541!1m5!1m1!1s0x94ce5a283513ee27:0x76950c1ef28fd7ef!2m2!1d-46.6391717!2d-23.5889835 "Google Maps: Gibi Cultura Geek"
+[3]: http://www.meetup.com/php-sp/events/ "Meetup: Próximos eventos"
