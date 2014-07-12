@@ -22,15 +22,19 @@ Quem?
 Assuntos?
 ---------
 
-- [@diegocpires]: AWS
-- [@afonso]: ORM
-- [@mariorez]: Docker
-- [@alexjunior012]: OO
-- [@sl0wik]: Memcache
-- [@hussani]: Web API
-- [@rogeriopradoj]: Open Source e além
-- [@mauronascimento]: autoload
-- [@pauloelr]: Web Components
+- [@diegocpires]: **AWS**
+- [@afonso]: **ORM**
+- [@mariorez]: **Docker**<br>
+Links:<br>
+[Docker Website](http://www.docker.com/)<br>
+[What is Docker?](http://www.docker.com/whatisdocker/)<br>
+[Google I/O 2014 - Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw)
+- [@alexjunior012]: **Programação Orientada a Objetos**
+- [@sl0wik]: **Memcache**
+- [@hussani]: **Web API**
+- [@rogeriopradoj]: **Open Source e além**
+- [@mauronascimento]: **Autoload**
+- [@pauloelr]: **Web Components**
 
 ---
 
