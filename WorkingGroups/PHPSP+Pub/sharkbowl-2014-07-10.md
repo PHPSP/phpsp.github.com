@@ -23,6 +23,10 @@ Assuntos?
 ---------
 
 - [@diegocpires]: AWS
+
+    Iniciei o tema falando um pouco sobre a minha experiência com os serviços de Cloud da Amazon. Mais especificamente com o CloudFront, LoadBalacing e AutoScaling. A intenção era levantar opções para estressar e testar os serviços da Amazon de forma convincente. Para saber se o LoadBalancing e AutoScaling estavam realmente funcionando.
+
+    Todo mundo opiniou, discutiu formas de testar e validar as configurações da Amazon mas não foi falado sobre nenhum tipo de serviço que faça esse trabalho de uma forma mais "barata", pois as opções que temos no mercado realmente são um pouco caras.
 - [@afonso]: ORM
 - [@mariorez]: Docker
 - [@alexjunior012]: OO
